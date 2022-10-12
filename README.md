@@ -1,22 +1,13 @@
-# Tourism Website for Matiari
+# Chill! It's resoting time in Southern Korea
 <img src="images/matiari.png"/>
 
-http://explore-matiari.surge.sh/
-### *A Website about Matiari, that contains Information about Matiari, It's History, Restaurants, Famous Places, Famous Things, Bus Stops and Hospitals.*
+### *A Website about South Korea that provides facts on the country's History, Eateries, well-known spots, and necessary contacts.*
 
 ## Task
-Built this app to show Attractions and History of my Village "MATIARI" and to polish my HTML5, CSS3, Javascript-es6, and Web App Development Skills.
-
-
-## Run Locally 
-
-- Run this command `git clone https://github.com/qjunaid623/matiariWebsite.git`
-- You are now in the dev environment and you can play around 
+Designed this Web App to showcase the highlightments of Southern Korea ans as well to hone HTML, CSS3 and Web App development Skills.
 
 ## Tech Stack
 
 - HTML5
 - CSS3
-- Font Awesome
 - VS Code
-- Surge
